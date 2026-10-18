@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Seja bem vindo(a) ao Mini Banco!");

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\ProjetoBanco\\ProjetoBanco.csproj",
+      "projectUniqueName": "k:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\ProjetoBanco.csproj",
       "projectName": "ProjetoBanco",
-      "projectPath": "K:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\ProjetoBanco\\ProjetoBanco.csproj",
+      "projectPath": "k:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\ProjetoBanco.csproj",
       "packagesPath": "C:\\Users\\Fefa\\.nuget\\packages\\",
-      "outputPath": "K:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\ProjetoBanco\\obj\\",
+      "outputPath": "k:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fefa\\AppData\\Roaming\\NuGet\\NuGet.Config"
