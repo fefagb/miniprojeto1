@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "k:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\MiniBanco.csproj": {}
+    "K:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\MiniBanco.csproj": {}
   },
   "projects": {
-    "k:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\MiniBanco.csproj": {
+    "K:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\MiniBanco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "k:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\MiniBanco.csproj",
+        "projectUniqueName": "K:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\MiniBanco.csproj",
         "projectName": "MiniBanco",
-        "projectPath": "k:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\MiniBanco.csproj",
+        "projectPath": "K:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\MiniBanco.csproj",
         "packagesPath": "C:\\Users\\Fefa\\.nuget\\packages\\",
-        "outputPath": "k:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\obj\\",
+        "outputPath": "K:\\Study Fefa\\SCtec\\Logica da Programacao com C# SQL e Net\\miniprojeto1\\MiniBanco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fefa\\AppData\\Roaming\\NuGet\\NuGet.Config"
