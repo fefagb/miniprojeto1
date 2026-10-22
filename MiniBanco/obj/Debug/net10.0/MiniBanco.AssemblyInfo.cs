@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniBanco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a93a5f438d2a1e7b6af864c8294b6e9740f057bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e933986952ad778302d5d8bca55e372b8edc14a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniBanco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniBanco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
