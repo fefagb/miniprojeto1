@@ -47,4 +47,4 @@ Este projeto foi desenvolvido pela aluna Fernanda Borges com base nos conhecimen
 _O projeto foi desenvolvido com o mínimo possível de ferramentas de inteligência artificial, com foco em aprendizado mais lento e com maior absorção de conhecimentos básicos e estruturais do código._
 #####
 
-[^1]: Ps. não quis deixar o README longo demais então preferi deixar mais "enxuto" assim.
+<!-- Ps. não quis deixar o README longo demais então preferi deixar mais "enxuto" assim. -->
