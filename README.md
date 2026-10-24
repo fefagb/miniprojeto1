@@ -4,7 +4,7 @@
 
 _Abaixo link para o vídeo explicativo sobre o código:_
 
-[Vídeo Explicando o Projeto](https://www.google.com)
+[   🎬 Vídeo Explicando o Projeto  ](https://www.google.com)
 
 <!-- Esse arquivo deve explicar:
     o projeto
@@ -12,6 +12,11 @@ _Abaixo link para o vídeo explicativo sobre o código:_
     instruções para a execução via dotnet run -->
 
 ## O projeto: O que é e o que faz?
+
+- Item 1
+- Item 2
+- Item 3
+
 ## Regras de negócio
 ## Instruções de execução
 
@@ -38,4 +43,8 @@ _Abaixo link para o vídeo explicativo sobre o código:_
 
 Este projeto foi desenvolvido pela aluna Fernanda Borges com base nos conhecimentos adquiridos em C# e .NET framework durante as primeiras 6 semanas de curso do projeto SCTEC. 
 
-(O projeto foi desenvolvido com o mínimo possível de ferramentas de inteligência artificial, com foco em aprendizado mais lento e com maior absorção de conhecimentos estruturais do código.)
+#####
+_O projeto foi desenvolvido com o mínimo possível de ferramentas de inteligência artificial, com foco em aprendizado mais lento e com maior absorção de conhecimentos básicos e estruturais do código._
+#####
+
+[^1]: Ps. não quis deixar o README longo demais então preferi deixar mais "enxuto" assim.
