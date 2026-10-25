@@ -48,4 +48,4 @@ Execute-o como preferir: Seja copiando o diretório através do comando _git clo
 
 Este projeto foi desenvolvido pela aluna Fernanda Borges com base nos conhecimentos adquiridos em C# e .NET framework durante as primeiras 6 semanas de curso do projeto SCTEC. 
 
-(O projeto foi desenvolvido com o mínimo possível de ferramentas de inteligência artificial, com foco em maior absorção de conhecimentos estruturais do código através da prática.)
+###### _O projeto foi desenvolvido com o mínimo possível de ferramentas de inteligência artificial, com foco em maior absorção de conhecimentos estruturais do código através da prática._ ######
