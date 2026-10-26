@@ -2,16 +2,14 @@
 
 ### Olá, este é um projeto estudantil criado para aplicação prática de conhecimentos em programação back-end em linguagem C#.
 
-_Abaixo link para o vídeo explicativo sobre o código:_
-
-[Vídeo Explicando o Projeto](https://www.google.com)
+_Link para o Vídeo enviado via arquivo de entrega no AVA_
 
 <!-- Esse arquivo deve explicar:
     o projeto
     regras de negócio 
     instruções para a execução via dotnet run -->
 
-## O projeto: O que é, e o que faz?
+## O projeto: O que é?
 
 Aqui temos uma aplicação bancária executada via Console.app que simula a movimentação bancária de forma interativa, com histórico de atividade bancária e saúde da conta.
 
@@ -48,4 +46,4 @@ Execute-o como preferir: Seja copiando o diretório através do comando _git clo
 
 Este projeto foi desenvolvido pela aluna Fernanda Borges com base nos conhecimentos adquiridos em C# e .NET framework durante as primeiras 6 semanas de curso do projeto SCTEC. 
 
-(O projeto foi desenvolvido com o mínimo possível de ferramentas de inteligência artificial, com foco em maior absorção de conhecimentos estruturais do código através da prática.)
+###### _O projeto foi desenvolvido com o mínimo possível de ferramentas de inteligência artificial, com foco em maior absorção de conhecimentos estruturais do código através da prática._ ######
