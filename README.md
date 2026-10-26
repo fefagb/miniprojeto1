@@ -2,16 +2,14 @@
 
 ### Olá, este é um projeto estudantil criado para aplicação prática de conhecimentos em programação back-end em linguagem C#.
 
-_Abaixo link para o vídeo explicativo sobre o código:_
-
-[Vídeo Explicando o Projeto](https://www.google.com)
+_Link para o Vídeo enviado via arquivo de entrega no AVA_
 
 <!-- Esse arquivo deve explicar:
     o projeto
     regras de negócio 
     instruções para a execução via dotnet run -->
 
-## O projeto: O que é, e o que faz?
+## O projeto: O que é?
 
 Aqui temos uma aplicação bancária executada via Console.app que simula a movimentação bancária de forma interativa, com histórico de atividade bancária e saúde da conta.
 
